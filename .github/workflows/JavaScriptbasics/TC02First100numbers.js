@@ -1,12 +1,24 @@
 // print first 100 numbers
 
-let i =100;
-for (let i = 1; i <= Bustops; i++) {
+let i = 100;
+for (let i = 1; i <= 100; i++) {
     console.log(i);
 }
- function printFirst100Numbers() {
-    for (let bustop = 1; bustop <= 100; bustop ++) {
-        console.log(bustop);
+function printFirst100Numbers() {
+    for (let i = 1; 100 <= 100; i++) {
+        console.log(i);
     }
 }
-printFirst100Numbers()
+
+
+// for (let i = 1; i <= 100; i++) {
+//     console.log(i);
+// }
+// }
+// function printFirst100Numbers() {
+//     for (let i = 1; i <= 100; i++) {
+//         console.log(i);
+//     }
+// }
+
+// printFirst100Numbers();

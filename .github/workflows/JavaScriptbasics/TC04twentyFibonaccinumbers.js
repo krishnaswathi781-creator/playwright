@@ -13,3 +13,4 @@ function printFibonacci(n) {
 
 // Call the function to print first 20 Fibonacci numbers
 printFibonacci(20);
+printFibonacci(13)

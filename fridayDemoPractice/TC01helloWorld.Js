@@ -7,4 +7,6 @@ RE-ASSINMENT is NOT allowed
 BLOCK SCOPE/FUNCTION SCOPE
 */
 
-console.log ('Hello,Swathi!')
+console.log('Hello,My Testing world')
+console.log('iam learning javascript')
+console.log('its for practice time')

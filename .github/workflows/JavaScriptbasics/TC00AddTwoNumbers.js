@@ -1,36 +1,36 @@
 // //comments in js
 // // add two numbers and print the result
-// var a = 1000; 
-// var b = 20;
-// let c = a+b;
-// console.log (c);
+var a = 1000; 
+var b = 20;
+let c = a+b;
+console.log (c);
 
-// var d= a*b;
-// console.log(d);
-// let e =a/b;
-// console.log(e);
+var d= a*b;
+console.log(d);
+let e =a/b;
+console.log(e);
 
 
-// function addTwoNumbers(a, b) {
-//     if (typeof a !== 'number' || typeof b !== 'number') {
-//         console.error('Both arguments must be numbers');
-//         return;
-//     }
-//     return a + b;
-// }
+function addTwoNumbers(a, b) {
+    if (typeof a !== 'number' || typeof b !== 'number') {
+        console.error('Both arguments must be numbers');
+        return;
+    }
+    return a + b;
+}
 
-// // function divideTwoNumbers(a, b) {
-// //     if (typeof a !== 'number' || typeof b !== 'number') {
-// //         console.error('Both arguments must be numbers');
-// //         return;
-// //     }
-// //     if (b === 0) {
-// //         console.error('The second argument cannot be zero');
-// //         return;
-// //     }
+function divideTwoNumbers(a, b) {
+    if (typeof a !== 'number' || typeof b !== 'number') {
+        console.error('Both arguments must be numbers');
+        return;
+    }
+    if (b === 0) {
+        console.error('The second argument cannot be zero');
+        return;
+    }
 
-// //     return a / b;
-// // }
+    return a / b;
+}
 
 // // const result = divideTwoNumbers(100, 20);
 // // console.log(result);
@@ -46,3 +46,4 @@ if (browser === 'chrome') {
 } else if (browser === 'safari') {
     console.log('Browser not supported');
 }
+
