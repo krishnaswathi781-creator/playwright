@@ -10,7 +10,7 @@ const num = 5;
 // given a number, check if it is even or odd and print the result
 
 
-let apple = 9;
+let apple = 4;
 
 if (apple % 2 === 0) {
   console.log(`${apple} is even`);

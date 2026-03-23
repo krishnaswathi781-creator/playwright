@@ -19,7 +19,7 @@ function printFibonacciSeries(n) {
   }
 }
 
-// Get the number of terms
+// Get the number of terms 
 const readline = require("readline");
 const rl = readline.createInterface({
   input: process.stdin,
