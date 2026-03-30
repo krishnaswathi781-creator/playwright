@@ -13,7 +13,6 @@ for (let i = 1; i <= n; i++) {
 
 
 
-
 //2. multiples of 3 with "Three"
 
 var n = 50;
