@@ -16,5 +16,16 @@
   },
   "dependencies": {
     "node-fetch": "^3.3.2"
-  }
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishnaswathi781-creator/playwright.git"
+  },
+  "bugs": {
+    "url": "https://github.com/krishnaswathi781-creator/playwright/issues"
+  },
+  "homepage": "https://github.com/krishnaswathi781-creator/playwright#readme"
 }
