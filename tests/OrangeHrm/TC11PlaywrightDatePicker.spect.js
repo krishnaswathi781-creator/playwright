@@ -1,7 +1,4 @@
 
-
-
-
 //click on leave menu
 
 

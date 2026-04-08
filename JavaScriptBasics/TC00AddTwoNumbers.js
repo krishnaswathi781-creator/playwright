@@ -1,13 +1,13 @@
 // //comments in js
 // // add two numbers and print the result
-var a = 1000; 
+var a = 1000;
 var b = 20;
-let c = a+b;
-console.log (c);
+let c = a + b;
+console.log(c);
 
-var d= a*b;
+var d = a * b;
 console.log(d);
-let e =a/b;
+let e = a / b;
 console.log(e);
 
 
@@ -34,7 +34,7 @@ function divideTwoNumbers(a, b) {
 
 // // const result = divideTwoNumbers(100, 20);
 // // console.log(result);
- 
+
 //select browser based on user input
 let browser = 'safari';
 if (browser === 'chrome') {
